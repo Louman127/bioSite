@@ -1,0 +1,210 @@
+/* 
+Louis Thiemann
+CSD 340-306H
+09/14/22
+Assignment 7.3
+*/
+
+html, body{
+    font-family:  "Oswald", "Quattrocento", serif;
+    font-size: 16px;
+    color:black;
+    background-color:rgb(205, 222, 255);
+}
+
+header{
+    background-color:rgb(0, 94, 255);
+    color:black;
+    margin-top: -30px;
+    margin-right: -30px;
+    margin-left: -30px;
+    padding-top: 20px;
+    padding-bottom: 8px;    
+    text-align: center;
+}
+
+#fillerdiv{
+    display: inline-block;
+    padding: 40px;
+    max-width: 40%;
+}
+
+#fillerdiv img{
+    max-width: 50%; 
+}
+
+#fillerdiv2{
+    display: inline-block;
+    padding: 40px;
+    max-width: 40%;
+}
+
+#fillerdiv2 img{
+    max-width: 400px; 
+    display: inline-block;
+}
+
+#fillerdiv3{
+    display: inline-block;
+    padding: 40px;
+}
+
+#fillerdiv3 img{
+    width: 380px; 
+}
+
+#fillerdiv4{
+    display: inline-block;
+    padding: 40px;
+    padding-left: 200px;
+}
+
+#fillerdiv4 img{
+    width: 380px; 
+    display: inline-block;
+}
+
+#fillerdiv5{
+    display: inline-block;
+    padding: 40px;
+    padding-left: 20px;
+}
+
+#fillerdiv5 img{
+    width: 380px; 
+    display: inline-block;
+}
+
+#fillerdiv6{
+    display: inline-block;
+    padding: 40px;
+    padding-left: 40px;
+}
+
+#fillerdiv6 img{
+    width: 380px; 
+    display: inline-block;
+}
+
+#fillerdiv7{
+    display: inline-block;
+    padding: 40px;
+    padding-left: 40px;
+}
+
+#fillerdiv7 img{
+    width: 380px; 
+    display: inline-block;
+}
+
+#fillerdiv8{
+    display: inline-block;
+    padding: 40px;
+    padding-left: 40px;
+}
+
+#fillerdiv8 img{
+    width: 380px; 
+    display: inline-block;
+}
+
+#fillerdiv9{
+    display: inline-block;
+    padding: 40px;
+    padding-left: 40px;
+}
+
+#fillerdiv9 img{
+    width: 380px; 
+    display: inline-block;
+}
+
+#fillerdiv10{
+    display: inline-block;
+    padding: 40px;
+    padding-left: 40px;
+}
+
+#fillerdiv10 img{
+    width: 380px; 
+    display: inline-block;
+}
+
+#gallery{
+    overflow:scroll;
+    display:flex;
+}
+
+#bio_interview{
+    display: block;
+    max-width: 200px;
+}
+
+h3{
+    display:inline-block;
+    margin-left: 0%;
+}
+
+h1{
+    font-weight: 400;
+}
+
+#about_para{
+    display: inline-block;
+    max-width:400px;
+    height: 300px;
+    text-indent: 20px;
+    margin-left: 0%;
+    overflow:auto;
+    background-color: rgb(0, 94, 255);
+    padding: 5%;
+    border-radius: 5%;
+}
+
+#menuBar{
+    margin-top: 30px;
+    padding: 12px;
+    background-color:rgb(0, 94, 255);
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px; 
+}
+
+#menuBar{
+    text-decoration: none;
+}
+
+#menuBar a{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+}
+
+#menuBar a:hover{
+    text-decoration:underline;
+    cursor: pointer;
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
+}
+
+#navbar a:hover{
+    background-color:#dcd614bd;
+    color: black;
+}
+
+#container{
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+}
+
+footer{
+    background-color:rgb(0, 94, 255);
+    color:black;
+    margin-top: 40px;
+    margin-right: -30px;
+    margin-left: -30px;
+    margin-bottom: -30px;
+    padding-top: 20px;
+    padding-bottom: 8px;    
+    text-align: center;
+}
